@@ -3,7 +3,7 @@
 # ; Author: Professor Krasso
 # ; Modified By: Lea Trueworthy
 # ; Date:  28 June 2019
-# ; Description: Exercise 9.2 - Querying and Creating Documents
+# ; Description: Exercise 9.2 - learn how to query and create documents in a MongoDB database instance through Python and pymongo.
 # ;===========================================
 
 from pymongo import MongoClient
